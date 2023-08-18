@@ -1,0 +1,90 @@
+body{
+    
+
+}
+
+
+
+.shopy{
+    margin-left: 1em;
+}
+.shop-name{
+    font-size: 1.6em;
+    font-family: cursive;
+    color: rgb(159, 159, 159);
+    margin-bottom: 1%;
+    padding-right: 4em;
+}
+h2{
+    font-size: medium;
+    margin-top: 0;
+    margin-left: 1.5em;
+    color: rgb(159, 159, 159);
+    font-style: oblique;
+    padding-right: 5em;
+}
+h3{
+    text-align: center;
+    background-color: bisque;
+    margin-left: 14%;
+    margin-right: 14%;
+    border-radius: 1em;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.logo{
+    margin-left: 70%;
+    margin-top: -179em;
+    width: 87px
+}
+.nav{
+    display: flex;
+    background-color: black;
+}
+
+.navi{
+    margin-right: 1em;
+}
+.nav-text{
+    color: white;
+   
+}
+.line{
+    background-color: rgb(102, 99, 99);
+    height: 0.5em;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 4em;
+    margin-top: 1em;
+}
+
+.gif{
+    width: 100;
+}
+
+.section{
+    display: flex;
+}
+.about{
+    background-color: rgb(120, 117, 117);
+    color: white;
+    border-radius: 7px;
+    padding-top: 0.6em;
+    padding: 1em;
+   margin-left: 2em;
+}
+.bajriseed{
+ margin-top: auto;
+ align-items: center;
+ width: 2em;
+}
+
+@media (min-width: 374px) {
+    img {
+      width: 140px;
+      margin-left: 9px;
+    }
+    
+    .bcage{
+        width: 140;
+    }
+  }
